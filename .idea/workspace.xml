@@ -255,12 +255,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554775844122</updated>
-      <workItem from="1554775845327" duration="16298000" />
+      <workItem from="1554775845327" duration="16299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16298000" />
+    <option name="totallyTimeSpent" value="16299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -286,7 +286,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.34041184" />
+      <window_info anchor="right" id="Run" order="5" weight="0.34041184" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
