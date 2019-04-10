@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff767796-18ce-48aa-a5b1-ef5df13f46a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/crime_in_Seoul.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/geo_simple.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/police_position.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seoul_cctv/crime_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seoul_cctv/crime_pollice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seoul_cctv/crime_rate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seoul_cctv/pop_cctv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seoul_cctv/pop.py" beforeDir="false" afterPath="$PROJECT_DIR$/seoul_cctv/pop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seoul_cctv/pop.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,17 +37,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/text_mining/samsung_report.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="-8">
               <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/folium_test/us_unemployment.py">
+        <entry file="file://$PROJECT_DIR$/seoul_cctv/crime_pollice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="39" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seoul_cctv/pop_cctv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="71" column="38" lean-forward="true" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -48,11 +64,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/seoul_cctv/pop.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seoul_cctv/crime_rate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            <state relative-caret-position="-13">
+              <caret line="80" column="35" lean-forward="true" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seoul_cctv/crime_map.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="91" column="32" lean-forward="true" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/final.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="81" lean-forward="true" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/police_pos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/toner2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -65,6 +123,12 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ing</find>
+      <find>cho</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,10 +144,15 @@
         <option value="$PROJECT_DIR$/dd/naver_stock.py" />
         <option value="$PROJECT_DIR$/folium_test/us_unemployment.py" />
         <option value="$PROJECT_DIR$/seoul_cctv/pop.py" />
+        <option value="$PROJECT_DIR$/data/crime_in_Seoul.csv" />
+        <option value="$PROJECT_DIR$/seoul_cctv/crime.py" />
+        <option value="$PROJECT_DIR$/seoul_cctv/crime_rate.py" />
+        <option value="$PROJECT_DIR$/seoul_cctv/crime_pollice.py" />
+        <option value="$PROJECT_DIR$/seoul_cctv/crime_map.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="800" />
     <option name="height" value="860" />
   </component>
@@ -121,16 +190,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\1027\PycharmProjects\day3 sf4" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\1027\PycharmProjects\day3 sf4\data" />
       <recent name="C:\Users\1027\PycharmProjects\day3 sf4\crawler" />
+      <recent name="C:\Users\1027\PycharmProjects\day3 sf4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\1027\PycharmProjects\day3 sf4" />
     </key>
   </component>
@@ -146,33 +219,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pop">
-    <configuration name="result.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day3 sf4/data/result.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.final.html">
+    <configuration name="final.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day3 sf4/data/final.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="naver_stock" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day3 sf4" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dd" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dd/naver_stock.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+    <configuration name="police_pos.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day3 sf4/data/police_pos.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="pop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="toner2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day3 sf4/data/toner2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="toner.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day3 sf4/data/toner.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="crime_map" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="day3 sf4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,51 +245,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seoul_cctv/pop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="samsung_report" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day3 sf4" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_mining" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_mining/samsung_report.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="us_unemployment" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day3 sf4" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/folium_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/folium_test/us_unemployment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seoul_cctv/crime_map.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pop" />
-        <item itemvalue="JavaScript Debug.result.html" />
-        <item itemvalue="Python.us_unemployment" />
-        <item itemvalue="Python.naver_stock" />
-        <item itemvalue="Python.samsung_report" />
+        <item itemvalue="JavaScript Debug.final.html" />
+        <item itemvalue="Python.crime_map" />
+        <item itemvalue="JavaScript Debug.police_pos.html" />
+        <item itemvalue="JavaScript Debug.toner2.html" />
+        <item itemvalue="JavaScript Debug.toner.html" />
       </list>
     </recent_temporary>
   </component>
@@ -259,18 +275,19 @@
       <option name="presentableId" value="Default" />
       <updated>1554775844122</updated>
       <workItem from="1554775845327" duration="16299000" />
-      <workItem from="1554798832265" duration="1527000" />
+      <workItem from="1554798832265" duration="2898000" />
+      <workItem from="1554855390504" duration="24194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17826000" />
+    <option name="totallyTimeSpent" value="43391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25289574" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17245817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -285,13 +302,36 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="SciView" order="0" weight="0.15765765" />
+      <window_info anchor="right" id="SciView" order="0" weight="0.23166023" />
       <window_info anchor="right" id="Database" order="1" weight="0.32947233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.35842985" />
+      <window_info anchor="right" id="Run" order="5" weight="0.28764477" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17245817" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32928476" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39892185" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="SciView" order="0" weight="0.23166023" />
+      <window_info anchor="right" id="Database" order="1" weight="0.32947233" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.28764477" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -300,10 +340,13 @@
     <SUITE FILE_PATH="coverage/day3_sf4$move_rank.coverage" NAME="move_rank Coverage Results" MODIFIED="1554787816172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dd" />
     <SUITE FILE_PATH="coverage/day3_sf4$naver_autologin.coverage" NAME="naver_autologin Coverage Results" MODIFIED="1554776380955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dd" />
     <SUITE FILE_PATH="coverage/day3_sf4$kospi.coverage" NAME="kospi Coverage Results" MODIFIED="1554777631030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dd" />
+    <SUITE FILE_PATH="coverage/day3_sf4$crime_rate.coverage" NAME="crime_rate Coverage Results" MODIFIED="1554883278773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seoul_cctv" />
     <SUITE FILE_PATH="coverage/day3_sf4$samsung_report.coverage" NAME="samsung_report Coverage Results" MODIFIED="1554790223191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/text_mining" />
     <SUITE FILE_PATH="coverage/day3_sf4$us_unemployment.coverage" NAME="us_unemployment Coverage Results" MODIFIED="1554792734464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/folium_test" />
+    <SUITE FILE_PATH="coverage/day3_sf4$crime_map.coverage" NAME="crime_map Coverage Results" MODIFIED="1554887379765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seoul_cctv" />
     <SUITE FILE_PATH="coverage/day3_sf4$naver_stock.coverage" NAME="naver_stock Coverage Results" MODIFIED="1554790373397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dd" />
-    <SUITE FILE_PATH="coverage/day3_sf4$pop.coverage" NAME="pop Coverage Results" MODIFIED="1554800422717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seoul_cctv" />
+    <SUITE FILE_PATH="coverage/day3_sf4$pop.coverage" NAME="pop Coverage Results" MODIFIED="1554863884235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seoul_cctv" />
+    <SUITE FILE_PATH="coverage/day3_sf4$crime.coverage" NAME="crime Coverage Results" MODIFIED="1554875012253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seoul_cctv" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dd/__init__.py" />
@@ -341,24 +384,10 @@
         <state relative-caret-position="-712" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/lib/site-packages/pandas/core/indexes/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="2656" selection-start-line="2656" selection-end-line="2656" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/lib/site-packages/folium/features.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="950" selection-start-line="950" selection-end-line="950" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/lib/site-packages/folium/folium.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="428" selection-start-line="428" selection-end-line="428" />
         </state>
       </provider>
     </entry>
@@ -372,16 +401,22 @@
     <entry file="file://$PROJECT_DIR$/data/CCTV_in_Seoul.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/text_mining/samsung_report.py">
+    <entry file="file://$PROJECT_DIR$/data/cctv_pop.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/geo_simple.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/crime_in_Seoul.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="800">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/folium_test/us_unemployment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
+        <state relative-caret-position="110">
           <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -389,10 +424,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/seoul_cctv/pop.py">
+    <entry file="file://$PROJECT_DIR$/text_mining/samsung_report.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        <state relative-caret-position="-8">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/lib/site-packages/matplotlib/font_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1905">
+          <caret line="1243" column="77" lean-forward="true" selection-start-line="1243" selection-start-column="77" selection-end-line="1243" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seoul_cctv/pop_cctv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="71" column="38" lean-forward="true" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/lib/site-packages/folium/folium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="425" selection-start-line="425" selection-end-line="425" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/toner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/toner2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/police_position.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seoul_cctv/crime_pollice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seoul_cctv/crime_rate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="80" column="35" lean-forward="true" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/lib/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="2656" selection-start-line="2656" selection-end-line="2656" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/police_pos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seoul_cctv/crime_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="91" column="32" lean-forward="true" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/final.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="81" lean-forward="true" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
         </state>
       </provider>
     </entry>
