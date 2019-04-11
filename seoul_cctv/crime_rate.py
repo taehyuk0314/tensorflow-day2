@@ -10,7 +10,7 @@ import googlemaps
 ctx ='../data/'
 df_crime_police=pd.read_csv(ctx+'crime_police', encoding='UTF-8'
                                      , sep=',')
-#print(df_crime_pollice)
+print(df_crime_police)
 
 df_police = pd.pivot_table(df_crime_police
                           , index='구별'
@@ -102,5 +102,5 @@ sns.heatmap(df_police_norm_sort[ls_crime]
             ,linewidths=5)
 plt.title('범죄 비율')
 df_police_norm.to_csv(ctx+'police_norm.csv'
-                      ,sep=','
-                      ,encoding='UTF-8')
+                        ,sep=','
+                       ,encoding='UTF-8')

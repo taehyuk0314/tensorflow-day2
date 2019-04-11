@@ -104,3 +104,4 @@ for i in arr.index:
                          , color = '#31868cc'
                          , fill_color='#31868cc').add_to(map)
 map.save(ctx+'final.html')
+print(df_police_norm)

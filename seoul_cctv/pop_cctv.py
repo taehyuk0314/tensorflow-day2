@@ -11,7 +11,7 @@ df_cctv =pd.read_csv(csv)
 
 df_cctv_col = df_cctv.columns
 df_pop_col = df_pop.columns
-#print(cctv_data_schema)
+
 """
 pop
 ndex(['구별', '인구수', '한국인', '외국인', '고령자'], dtype='object')
